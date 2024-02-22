@@ -1,0 +1,23 @@
+import React from 'react'
+import style from './Home.module.css'
+import FeaturedProducts from '../FeaturedProducts/FeaturedProducts'
+import MainSlider from '../MainSlider/MainSlider'
+import CategoriesSlider from '../CategoriesSlider/CategoriesSlider'
+import {Helmet} from "react-helmet";
+import icon from '../../Assets/images/favicon.ico'
+
+
+export default function Home() {
+
+    
+  return <>
+  <Helmet>
+    <meta charSet="utf-8" />
+    <title>Fresh Cart</title>
+    <link rel="icon" href={icon} />
+    </Helmet>
+  <MainSlider/>
+  <CategoriesSlider/>
+  <FeaturedProducts></FeaturedProducts>
+  </>
+}
