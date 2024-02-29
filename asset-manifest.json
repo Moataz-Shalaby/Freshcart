@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Freshcart/static/css/main.26fd6115.css",
-    "main.js": "/Freshcart/static/js/main.aa5c0862.js",
+    "main.css": "/Freshcart/static/css/main.44b5a74e.css",
+    "main.js": "/Freshcart/static/js/main.e2fb9f67.js",
     "static/js/453.8927dfbf.chunk.js": "/Freshcart/static/js/453.8927dfbf.chunk.js",
     "static/media/fa-solid-900.ttf": "/Freshcart/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/Product hunt-bro.png": "/Freshcart/static/media/Product hunt-bro.0f49820161dcfa84a013.png",
     "static/media/slider-image-1.jpeg": "/Freshcart/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
     "static/media/400 Error Bad Request-pana.png": "/Freshcart/static/media/400 Error Bad Request-pana.43402dd48e56b468f58d.png",
     "static/media/404 Error Page not Found with people connecting a plug-amico.png": "/Freshcart/static/media/404 Error Page not Found with people connecting a plug-amico.ef9065e2d5a3be5892c8.png",
@@ -25,12 +26,12 @@
     "static/media/slick.ttf": "/Freshcart/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Freshcart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Freshcart/index.html",
-    "main.26fd6115.css.map": "/Freshcart/static/css/main.26fd6115.css.map",
-    "main.aa5c0862.js.map": "/Freshcart/static/js/main.aa5c0862.js.map",
+    "main.44b5a74e.css.map": "/Freshcart/static/css/main.44b5a74e.css.map",
+    "main.e2fb9f67.js.map": "/Freshcart/static/js/main.e2fb9f67.js.map",
     "453.8927dfbf.chunk.js.map": "/Freshcart/static/js/453.8927dfbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26fd6115.css",
-    "static/js/main.aa5c0862.js"
+    "static/css/main.44b5a74e.css",
+    "static/js/main.e2fb9f67.js"
   ]
 }
