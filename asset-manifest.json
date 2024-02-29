@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Freshcart/static/css/main.44b5a74e.css",
-    "main.js": "/Freshcart/static/js/main.7f12dc31.js",
+    "main.js": "/Freshcart/static/js/main.a7951ee1.js",
     "static/js/453.8927dfbf.chunk.js": "/Freshcart/static/js/453.8927dfbf.chunk.js",
     "static/media/fa-solid-900.ttf": "/Freshcart/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/Product hunt-bro.png": "/Freshcart/static/media/Product hunt-bro.0f49820161dcfa84a013.png",
@@ -27,11 +27,11 @@
     "static/media/slick.woff": "/Freshcart/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Freshcart/index.html",
     "main.44b5a74e.css.map": "/Freshcart/static/css/main.44b5a74e.css.map",
-    "main.7f12dc31.js.map": "/Freshcart/static/js/main.7f12dc31.js.map",
+    "main.a7951ee1.js.map": "/Freshcart/static/js/main.a7951ee1.js.map",
     "453.8927dfbf.chunk.js.map": "/Freshcart/static/js/453.8927dfbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44b5a74e.css",
-    "static/js/main.7f12dc31.js"
+    "static/js/main.a7951ee1.js"
   ]
 }
